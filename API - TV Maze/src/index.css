@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg: 0, 0%, 0%;
+    --green-shadow: 159, 82%, 53%;
+    --text-color-white: 0 0% 100%;
+  }
+  
+}
+
